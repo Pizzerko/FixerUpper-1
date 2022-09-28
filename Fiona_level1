@@ -1,19 +1,16 @@
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
     <title>Fiona Level 1
-  </head>
-  <body>
-    <div class="heading">
-      <h3>Debug Activity</h3> 
+    </head>
+    <body>
+    <div class="heading"> <h3>Debug Activity</h3> 
     </div>
-    <h5>Article Title<h5>
-    Article Content</p>
+    <h5>Article Title<h5> Article Content</p>
     <div class = "nice">
-      <h6>I'm cool.</h6>
-      That's true.</p>
+    <h6>I'm cool.</h6>
+    That's true.</p>
     </div>
   </body>
 </html>
